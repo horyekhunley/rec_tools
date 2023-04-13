@@ -25,7 +25,7 @@ async function run() {
     // get the categories of the page
     const categories = await page.evaluate(() => {
         const categoryNodes = document.querySelectorAll('.home-product-categories a')
-        return Array.from(categoryNodes, node => ({ name: node.innerText.trim(), href: node.getAttribute('href') }))
+        return Array.from(categoryNodes, node => ({ category: node.innerText.trim(), href: node.getAttribute('href') }))
     })
 
     // save the title, url, categories, to a rectools.json file
