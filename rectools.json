@@ -1,0 +1,90 @@
+{
+  "title": "Home - Rectools.io",
+  "url": "https://www.rectools.io/",
+  "categories": [
+    {
+      "name": "CRM",
+      "href": "https://www.rectools.io/product-category/crm/"
+    },
+    {
+      "name": "Automation",
+      "href": "https://www.rectools.io/product-category/automation/"
+    },
+    {
+      "name": "Job Boards",
+      "href": "https://www.rectools.io/product-category/job-boards/"
+    },
+    {
+      "name": "Payroll Solutions",
+      "href": "https://www.rectools.io/product-category/payroll-solutions/"
+    },
+    {
+      "name": "Telecomms",
+      "href": "https://www.rectools.io/product-category/telecomms/"
+    },
+    {
+      "name": "Work Solutions",
+      "href": "https://www.rectools.io/product-category/worksolutions/"
+    },
+    {
+      "name": "Web Development",
+      "href": "https://www.rectools.io/product-category/web-development/"
+    },
+    {
+      "name": "ATS",
+      "href": "https://www.rectools.io/product-category/ats/"
+    },
+    {
+      "name": "Video Tools",
+      "href": "https://www.rectools.io/product-category/video-tools/"
+    },
+    {
+      "name": "Marketing",
+      "href": "https://www.rectools.io/product-category/marketing/"
+    },
+    {
+      "name": "Legal & HR Services",
+      "href": "https://www.rectools.io/product-category/legal-and-hr-services/"
+    },
+    {
+      "name": "Pre-employment Screening",
+      "href": "https://www.rectools.io/product-category/pre-employment-screening/"
+    },
+    {
+      "name": "Timesheet Software",
+      "href": "https://www.rectools.io/product-category/timesheet-software/"
+    },
+    {
+      "name": "Banking & Finance",
+      "href": "https://www.rectools.io/product-category/bankingandfinance/"
+    },
+    {
+      "name": "Rec2Rec",
+      "href": "https://www.rectools.io/product-category/rec2rec/"
+    },
+    {
+      "name": "Invoice Finance & Factoring",
+      "href": "https://www.rectools.io/product-category/invoice-financing-and-factoring/"
+    },
+    {
+      "name": "Compliance & IDVT",
+      "href": "https://www.rectools.io/product-category/compliance-idvt/"
+    },
+    {
+      "name": "Promotional Material",
+      "href": "https://www.rectools.io/product-category/promotional-material/"
+    },
+    {
+      "name": "Investors & Start-Up",
+      "href": "https://www.rectools.io/product-category/investors-and-start-up/"
+    },
+    {
+      "name": "Job Distribution Tools",
+      "href": "https://www.rectools.io/product-category/job-distribution-tools/"
+    },
+    {
+      "name": "Training & Development",
+      "href": "https://www.rectools.io/product-category/training-development/"
+    }
+  ]
+}
